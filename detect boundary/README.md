@@ -42,7 +42,6 @@ Steps:
 
 ## Results
 
-![Detected Boundaries Image BIM](BIM_detected_boundaries.png "Detected Boundaries Image BIM")
-
-![Detected Boundaries Image Camera](Camera_detected_boundaries.png "Detected Boundaries Image Camera")
+![BIM_detected_boundaries](https://user-images.githubusercontent.com/122999996/219460618-c357f4ef-515c-418d-a673-dc279bef9854.png)
+![Camera_detected_boundaries](https://user-images.githubusercontent.com/122999996/219460612-a3dfef24-e7c6-4bc9-a638-81cd06274377.png)
 
